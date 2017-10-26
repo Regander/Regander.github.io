@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0;
+}
+
+#storbox{
+	background-color:#00C;
+	height:100%;
+	width:100%;
+	position:absolute;
+}
+
+header{
+	background-image:url(nobel1.png);
+	background-position:center;
+	background-repeat:no-repeat;
+	height:30%;
+	width:100%;
+}
+
+nav{
+	background-color:#FF3;
+	height:10%;
+	width:100%;
+	float:left;
+}
+
+u1 {
+	list-style: none;
+	background-color:#FF3;
+	text-align:center;
+	margin:0;
+	float:left;
+}
+
+li {
+	font-family:"Arial Black", Gadget, sans-serif;
+	color:#FFF;
+	font-size:14px;
+	line-height:60px;
+	height:100%;
+	width:15%;
+	float:left;
+	margin-left:275px;
+}
+
+article{
+	font-family:"MS Serif", "New York", serif;
+	color:#FF0;
+	clear:left;
+	background-color:#009;
+	background-position:inherit;
+	background-repeat:no-repeat;
+	height:60%;
+	width:100%;
+}
+
+h1{
+	text-align:center;
+}
+
+h2{
+	text-align:center;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+	font-family:"Arial Black", Gadget, sans-serif;
+	text-align:center;
+}
+
+figcaption{
+	text-align:center;
+}
+
+footer{
+	background-color:#FFF;
+	height:5%;
+	width:100%;
+}
